@@ -16,3 +16,10 @@ npm-debug.log
 
 .idea
 node_modules
+
+obj
+bin
+*.user
+*.suo
+
+packages
